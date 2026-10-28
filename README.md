@@ -4,6 +4,10 @@ A glass capsule on-screen display for KDE Plasma 6. It replaces the popup you se
 
 I got tired of the stock OSD sitting in the middle of the screen, so this started as "move it up" and grew from there.
 
+![Volume](assets/volume.png)
+
+![Keyboard layout](assets/layout.png)
+
 ## What it does
 
 - Shows a translucent capsule at the top of the active screen. KWin blurs exactly the capsule shape behind it, rounded corners included. The background stays dark enough to read over white windows.
